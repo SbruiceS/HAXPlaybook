@@ -7,7 +7,7 @@
     "@fluentui/react": "^8.7.1",
     "@fluentui/react-hooks": "^8.1.1",
     "@octokit/plugin-throttling": "^3.4.1",
-    "@octokit/rest": "^18.1.0",
+    "@octokit/rest": "^22.0.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
